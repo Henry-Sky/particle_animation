@@ -1,1 +1,4 @@
-# flametimer
+# 粒子动画
+
+周围旋转粒子聚集显示文字:
+![img]("./src/img.jpg")
