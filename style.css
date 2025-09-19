@@ -6,14 +6,3 @@
     background: black;
     position: absolute;
 }
-#msg{
-    position: absolute;
-    width: calc(100% - 20px);
-    margin: 10px;
-    box-sizing: border-box;
-    font-size: 40px;
-    padding: 10px;
-    outline: none;
-    z-index: 100;
-
-}
